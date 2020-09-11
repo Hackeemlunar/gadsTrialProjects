@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LEADERBOARD</string>
+    <string name="learning_leaders">Learning Leaders</string>
+    <string name="skill_iq_leaders">Skill IQ Leaders</string>
+    <string name="name">Names</string>
+    <string name="score">Score</string>
+    <string name="country">Country</string>
+    <string name="hours_display_formatting">" learning hours, "</string>
+    <string name="score_display_formatting">" skill IQ Score, "</string>
+    <string name="page_name">Project Submission</string>
+    <string name="submit">Submit</string>
+    <string name="header_title">Google Africa</string>
+    <string name="header_subtitle">Developer Scholarship</string>
+    <string name="cancel">Click here to cancel</string>
+    <string name="success_text">Submission Successful</string>
+    <string name="question">Are you sure</string>
+    <string name="question_mark">"? "</string>
+    <string name="yes_button_text">Yes</string>
+    <string name="failed_submission">Submission not Successful</string>
+    <string name="sub_success">Submision Successful</string>
+    <string name="github_hint">Project on GITHUB (link)</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="email_address_hint">Email Address</string>
+</resources>
