@@ -91,6 +91,7 @@ public class SubmissionPageFragment extends Fragment {
                         lv_lastName.setVisibility(View.VISIBLE);
                         lv_emailAddress.setVisibility(View.VISIBLE);
                         lv_gitLink.setVisibility(View.VISIBLE);
+                        Log.d("TAG", "Response = " + response.toString());
                     }
 
                     @Override
